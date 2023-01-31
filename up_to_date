@@ -1,0 +1,12 @@
+Command line used in git
+
+nano
+git clone
+git add .
+git commit -m
+git push
+git branch
+touch
+cd
+echo
+git branch checkout
