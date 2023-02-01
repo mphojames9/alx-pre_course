@@ -10,3 +10,5 @@ touch
 cd
 echo
 git branch checkout
+git pull
+
